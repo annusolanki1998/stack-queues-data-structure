@@ -7,6 +7,7 @@ public class Node {
     // create a constructor :-
     public Node(int data) {
         this.data = data;
+
         next = null;
     }
 }
